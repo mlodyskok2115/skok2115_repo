@@ -1,6 +1,5 @@
 package kret;
 
-import srodowisko.*;
 import java.util.Random;
 import obiektyziemne.*;
 
@@ -32,5 +31,9 @@ public class Kret implements RuchKreta  {
 	public int getWartoscOdzywcza() {
 		return wartoscOdzywcza;
 	}
+	public Gatunek getGatunek() {
+		return gatunek;
+	}
+
 
 }

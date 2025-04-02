@@ -1,7 +1,6 @@
 package obiektykopalniane;
 
 public class Uraninit extends Radioaktywne {
-	public enum Forma {URANOFAN, TORBERNIT, FOURMARIERYT};
 	private Forma forma;
 	public Uraninit(int bazowaWartosc) {
 		super(bazowaWartosc);

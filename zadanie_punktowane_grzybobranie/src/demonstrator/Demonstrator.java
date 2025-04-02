@@ -2,7 +2,6 @@ package demonstrator;
 
 import konsument.*;
 import las.*;
-import grzyby.*;
 
 public class Demonstrator {
 	public void main(String[] args) {
