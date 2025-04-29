@@ -7,7 +7,6 @@ import java.util.Set;
 import java.util.TreeSet;
 
 import podrozni.*;
-import systembiletowania.*;
 
 public class Wagon {
 	private Map<String, TreeSet<Podrozny>> stoliki = new HashMap<>();
